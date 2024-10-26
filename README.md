@@ -1,3 +1,10 @@
+TASK 1 : simply run the project with live server or open in web browser.
+
+![image](https://github.com/user-attachments/assets/18ec61ce-92ed-4670-a69f-68901df10c81)
+
+
+TASK 2 process:
+
 Clone this project - https://github.com/ansariabdulahad/NAGAED_HURDEL_TASK.git
 
 Go to the directory
