@@ -3,3 +3,27 @@ Clone this project - https://github.com/ansariabdulahad/NAGAED_HURDEL_TASK.git
 Install packages - npm install
 
 Run project - npm run dev
+
+Usage of Task 2 apis
+
+1. create new course
+API - http://localhost:5000/api/course/create
+body - {
+	"title": "New Course Added",
+    "description": "New the basics COURSES.",
+    "duration": "5 hourse"
+}
+
+2. Get all course
+API - http://localhost:5000/api/course
+
+3. Update course by ID
+API - http://localhost:5000/api/course/7
+body : {
+	"title": "Updated new course or update",
+    "description" : "updated",
+    "duration": "1 hr"
+}
+
+4. Delete course by id
+API - http://localhost:5000/api/course/6
