@@ -1,4 +1,5 @@
 TASK 1 : simply run the project with live server or open in web browser.
+
 Checkout live Link : https://nagaed-hurdel-task-c8686emjm-ansariabdulahads-projects.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/18ec61ce-92ed-4670-a69f-68901df10c81)
