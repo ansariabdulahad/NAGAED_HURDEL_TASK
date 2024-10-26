@@ -1,5 +1,9 @@
 Clone this project - https://github.com/ansariabdulahad/NAGAED_HURDEL_TASK.git
 
+Go to the directory
+cd Task2
+cd Build a Simple API
+
 Install packages - npm install
 
 Run project - npm run dev
