@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React.js",
+    "description": "Learn the basics of React.js, including components, props, and state management.",
+    "duration": "5 hours"
+  },
+  {
+    "id": 2,
+    "title": "Full-Stack Web Development with MERN",
+    "description": "Build modern web applications using MongoDB, Express.js, React, and Node.js.",
+    "duration": "20 hours"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Fundamentals",
+    "description": "Master core JavaScript concepts like variables, functions, and asynchronous programming.",
+    "duration": "8 hours"
+  },
+  {
+    "id": 4,
+    "title": "Advanced Node.js",
+    "description": "Explore advanced concepts in Node.js, including streams, clusters, and authentication.",
+    "duration": "10 hours"
+  },
+  {
+    "id": 5,
+    "title": "UI Design with Tailwind CSS",
+    "description": "Learn how to create responsive user interfaces using Tailwind CSS.",
+    "duration": "6 hours"
+  }
+]
